@@ -34,7 +34,7 @@ if len(email)>=6:
     else:
         print(f"first letter must be {email} alphabets")
 else:
-    print(f"wrong email {email}")
+    print(f"wrong email in {email}")
 
 
 
