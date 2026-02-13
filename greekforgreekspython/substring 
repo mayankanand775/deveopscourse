@@ -1,5 +1,0 @@
-string="ABCDCDC"
-substring="CDC"
-a=list(string)
-b=list(substring)
-print(a,b)
